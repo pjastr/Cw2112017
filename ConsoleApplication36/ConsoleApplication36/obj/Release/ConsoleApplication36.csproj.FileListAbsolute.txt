@@ -1,0 +1,9 @@
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\bin\Release\ConsoleApplication36.exe.config
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\bin\Release\ConsoleApplication36.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\bin\Release\ConsoleApplication36.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\obj\Release\ConsoleApplication36.exe
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\obj\Release\ConsoleApplication36.pdb
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\bin\Release\ConsoleApplication36.exe.manifest
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\bin\Release\ConsoleApplication36.application
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\obj\Release\ConsoleApplication36.exe.manifest
+c:\users\local\documents\visual studio 2013\Projects\ConsoleApplication36\ConsoleApplication36\obj\Release\ConsoleApplication36.application
